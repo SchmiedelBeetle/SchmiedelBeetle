@@ -42,6 +42,4 @@
   <img align="center"
        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schmiedelbeetle&" alt="schmiedelbeetle" /></p>
 
- alt="GitHub streak" />
-</p>
 
