@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schmiedelbeetle&label=Profile%20views&color=0e75b6&style=flat" alt="schmiedelbeetle" /> </p>
 
-- 🔭 You can see my past and current projects here and at [https://christian-schmiedel-portfolio.vercel.app](https://christianschmiedel.com)
+- 🔭 You can see my past and current projects here and at <a href = "https://christian-schmiedel-portfolio.vercel.app" target = "_blank">christianschmiedel.com</a>
 
 - 🌱 I’m currently learning **Rust for distributed and parallel systems**
 
