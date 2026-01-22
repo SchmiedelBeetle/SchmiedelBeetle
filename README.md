@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Schmiedel</h1>
-<h3 align="center">omputer Science student exploring cybersecurity, AI, and human-centered technology.</h3>
+<h3 align="center">Computer Science student exploring cybersecurity, AI, and human-centered technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schmiedelbeetle&label=Profile%20views&color=0e75b6&style=flat" alt="schmiedelbeetle" /> </p>
 
