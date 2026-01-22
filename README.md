@@ -26,17 +26,5 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SchmiedelBeetle&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchmiedelBeetle&theme=dark&hide_border=false&layout=compact" />
-  <br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=SchmiedelBeetle)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SchmiedelBeetle&theme=dark&hide_border=false" />
-</p>
-
----
