@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **Personal: christians.schmiedel@gmail.com School: cschmiedel1@csub.edu**
 
-- 📄 Know about my experiences [https://csub-my.sharepoint.com/:w:/r/personal/cschmiedel1_csub_edu/Documents/Christian%27s%20Updated%20Resume.docx?d=w7d717f5eb7134b7da0fc7f3d130e5d4d&csf=1&web=1&e=dWeOBo](https://csub-my.sharepoint.com/:w:/r/personal/cschmiedel1_csub_edu/Documents/Christian%27s%20Updated%20Resume.docx?d=w7d717f5eb7134b7da0fc7f3d130e5d4d&csf=1&web=1&e=dWeOBo)
-
+- 📄 Know about my experiences <a href = "[https://csub-my.sharepoint.com/:w:/r/personal/cschmiedel1_csub_edu/Documents/Christian%27s%20Updated%20Resume.docx?d=w7d717f5eb7134b7da0fc7f3d130e5d4d&csf=1&web=1&e=dWeOBo](https://csub-my.sharepoint.com/:w:/r/personal/cschmiedel1_csub_edu/Documents/Christian%27s%20Updated%20Resume.docx?d=w7d717f5eb7134b7da0fc7f3d130e5d4d&csf=1&web=1&e=dWeOBo)
+" target = "_blank">Resúme!</a>
 - ⚡ Fun fact **I've played piano my whole life and I am 6'4 😛**
 
 <h3 align="left">Connect with me:</h3>
