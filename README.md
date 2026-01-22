@@ -27,10 +27,16 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SchmiedelBeetle&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchmiedelBeetle&theme=dark&hide_border=false&layout=compact" />
-  <br/>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=schmiedelbeetle&" alt="schmiedelbeetle" /></p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SchmiedelBeetle&theme=dark&hide_border=false"
+  />
+  <br/><br/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchmiedelBeetle&theme=dark&hide_border=false&layout=compact"
+  />
+  <br/><br/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SchmiedelBeetle&theme=dark&hide_border=false"
+  />
 </p>
 
