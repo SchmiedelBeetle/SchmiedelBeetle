@@ -37,8 +37,11 @@
     alt="Top languages"
   />
   <br/><br/>
-  <img
-    src="https://streak-stats.demolab.com?user=schmiedelbeetle&theme=dark&hide_border=false"
-    alt="GitHub streak"
+  <p>
+  <img align="center"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=schmiedelbeetle"
+       alt="GitHub streak" />
+</p>
+
   />
 </p>
