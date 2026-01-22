@@ -27,4 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schmiedelbeetle&theme=dark&show_icons=true&locale=en" alt="schmiedelbeetle" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schmiedelbeetle&theme=dark" alt="schmiedelbeetle" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SchmiedelBeetle&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
