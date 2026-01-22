@@ -36,7 +36,9 @@
   />
   <br/><br/>
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SchmiedelBeetle&theme=dark&hide_border=false"
+  src="https://streak-stats.demolab.com?user=SchmiedelBeetle&theme=dark&hide_border=false"
+/>
+
   />
 </p>
 
