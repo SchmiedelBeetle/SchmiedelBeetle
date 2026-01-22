@@ -29,16 +29,16 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=SchmiedelBeetle&theme=dark&hide_border=false"
+    alt="GitHub stats"
   />
   <br/><br/>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchmiedelBeetle&theme=dark&hide_border=false&layout=compact"
+    alt="Top languages"
   />
   <br/><br/>
   <img
-  src="https://streak-stats.demolab.com?user=SchmiedelBeetle&theme=dark&hide_border=false"
-/>
-
+    src="https://streak-stats.demolab.com?user=SchmiedelBeetle&theme=dark&hide_border=false"
+    alt="GitHub streak"
   />
 </p>
-
