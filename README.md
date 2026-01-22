@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Rust, Machine Learning techniques and AI Researching**
 
-- 📫 How to reach me **Personal: christians.schmiedel@gmail.com School: cschmiedel1@csub.edu**
+- 📫 How to reach me: **Personal: christians.schmiedel@gmail.com
+-                       School: cschmiedel1@csub.edu**
 
 - 📄 Take a look at my <a href = "https://csub-my.sharepoint.com/:w:/r/personal/cschmiedel1_csub_edu/Documents/Christian%27s%20Updated%20Resume.docx?d=w7d717f5eb7134b7da0fc7f3d130e5d4d&csf=1&web=1&e=dWeOBohttps://csub-my.sharepoint.com/:w:/r/personal/cschmiedel1_csub_edu/Documents/Christian%27s%20Updated%20Resume.docx?d=w7d717f5eb7134b7da0fc7f3d130e5d4d&csf=1&web=1&e=L4Lmj9" target = "_blank">Résumé!</a>
 - ⚡ Fun fact **I've played piano my whole life and I am 6'4 😛**
