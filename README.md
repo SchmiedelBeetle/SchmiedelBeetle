@@ -38,7 +38,7 @@
   />
   <br/><br/>
   <img
-    src="https://streak-stats.demolab.com?user=SchmiedelBeetle&theme=dark&hide_border=false"
+    src="https://streak-stats.demolab.com?user=schmiedelbeetle&theme=dark&hide_border=false"
     alt="GitHub streak"
   />
 </p>
