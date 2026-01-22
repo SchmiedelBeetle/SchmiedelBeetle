@@ -25,6 +25,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SchmiedelBeetle&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SchmiedelBeetle&theme=dark&hide_border=false)<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schmiedelbeetle&" alt="schmiedelbeetle" /></p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SchmiedelBeetle&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=SchmiedelBeetle&theme=dark&hide_border=false)<br/>
