@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christian Schmiedel</h1>
-<h3 align="center">Computer Science student from Bakersfield, CA exploring cybersecurity, AI, and human-centered technology.</h3>
+<h3 align="center"> A Motivated Computer Science student from Bakersfield, CA exploring Machine Learning Engineering, AI, and Cybersecurity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schmiedelbeetle&label=Profile%20views&color=0e75b6&style=flat" alt="schmiedelbeetle" /> </p>
 
-- 🔭 I’m currently working on **🏓 Pong (Ongoing), StepbyStepAI, and my portfolio website**
+- 🔭 You can see my past and current projects here and at [https://christian-schmiedel-portfolio.vercel.app] (https://christianschmiedel.com)
 
 - 🌱 I’m currently learning **Rust for distributed and parallel systems**
 
