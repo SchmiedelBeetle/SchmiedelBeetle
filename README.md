@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **🏓 Pong (Ongoing)**
 
-- 🌱 I’m currently learning **Rust, Machine Learning techniques and AI Researching**
+- 🌱 I’m currently learning **Rust for distributed and parallel systems., Machine Learning techniques and AI Researching**
 
 - 📫 How to reach me: **Personal: christians.schmiedel@gmail.com School: cschmiedel1@csub.edu**
 
