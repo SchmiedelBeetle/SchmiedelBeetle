@@ -31,6 +31,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchmiedelBeetle&theme=dark&hide_border=false&layout=compact" />
   <br/>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schmiedelbeetle&" alt="schmiedelbeetle" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=schmiedelbeetle&" alt="schmiedelbeetle" /></p>
 </p>
 
