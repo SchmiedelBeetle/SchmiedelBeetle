@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schmiedelbeetle&label=Profile%20views&color=0e75b6&style=flat" alt="schmiedelbeetle" /> </p>
 
-- 🔭 I’m currently working on **🏓 Pong (Ongoing)**
+- 🔭 I’m currently working on **🏓 Pong (Ongoing), StepbyStepAI, and Learning Rust**
 
 - 🌱 I’m currently learning **Rust for distributed and parallel systems., Machine Learning techniques and AI Researching**
 
