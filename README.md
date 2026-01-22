@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schmiedelbeetle&theme=dark&show_icons=true&locale=en&layout=compact" alt="schmiedelbeetle" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schmiedelbeetle&show_icons=true&locale=en" alt="schmiedelbeetle" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schmiedelbeetle&theme=dark&show_icons=true&locale=en" alt="schmiedelbeetle" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schmiedelbeetle&" alt="schmiedelbeetle" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schmiedelbeetle&theme=dark&" alt="schmiedelbeetle" /></p>
